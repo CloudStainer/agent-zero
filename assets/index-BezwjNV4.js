@@ -9455,12 +9455,12 @@ var cj = Z3.exports,
       children: [
         k.jsx("img", {
           src: "/agent.png",
-          alt: "AgentZero Logo",
+          alt: "AlphaForge Logo",
           className: "w-8 h-8 object-contain",
         }),
         k.jsx("span", {
           className: "text-white font-bold text-xl",
-          children: "AgentZero",
+          children: "AlphaForge",
         }),
       ],
     }),
@@ -9779,7 +9779,7 @@ const Dj = () => {
             "absolute inset-4 rounded-full bg-[#141416] border border-[#A3FF23]/20 flex items-center justify-center hero-logo-circle",
           children: k.jsx("img", {
             src: "/agent.png",
-            alt: "AgentZero Logo",
+            alt: "AlphaForge Logo",
             className:
               "w-16 h-16 object-contain group-hover:scale-110 transition-transform duration-300",
           }),
@@ -9798,7 +9798,7 @@ const Dj = () => {
           className:
             "text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4",
           children: k.jsx(Lj, {
-            text: "AgentZero: Your Private AI Wealth Manager",
+            text: "AlphaForge: Your Private AI Wealth Manager",
             onComplete: () => e(!0),
           }),
         }),
@@ -9809,13 +9809,13 @@ const Dj = () => {
               k.jsx("p", {
                 className: "text-lg text-gray-300 mb-6 max-w-2xl mx-auto",
                 children:
-                  "Unlock the full potential of decentralized finance with AgentZero, designed for privacy-conscious investors.",
+                  "Unlock the full potential of decentralized finance with AlphaForge, designed for privacy-conscious investors.",
               }),
               k.jsxs("div", {
                 className: "flex flex-col items-center gap-4",
                 children: [
                   k.jsxs("a", {
-                    href: "https://agent-zero-doc1.vercel.app/",
+                    href: "https://alpha-forge-doc.vercel.app/",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
@@ -34255,7 +34255,7 @@ const ky = z5({
               k.jsx("p", {
                 className: "text-gray-300 max-w-2xl mx-auto",
                 children:
-                  "Get started with AgentZero in just a few simple steps and experience the future of automated wealth management.",
+                  "Get started with AlphaForge in just a few simple steps and experience the future of automated wealth management.",
               }),
             ],
           }),
@@ -34318,7 +34318,7 @@ const ky = z5({
   AG = () =>
     k.jsx(uM, {
       icon: cd,
-      title: "AgentZero Token (AGZRO)",
+      title: "AlphaForge Token (AGZRO)",
       className: "mb-8",
       children: k.jsxs("div", {
         className: "space-y-4 text-gray-300",
@@ -34326,7 +34326,7 @@ const ky = z5({
           k.jsx("p", {
             className: "leading-relaxed",
             children:
-              "The AgentZero ERC20 Token is the native cryptocurrency of the AgentZero ecosystem. Built on the Ethereum blockchain following the ERC20 standard, it ensures compatibility with wallets, decentralized exchanges (DEXs), and other Ethereum-based platforms.",
+              "The AlphaForge ERC20 Token is the native cryptocurrency of the AlphaForge ecosystem. Built on the Ethereum blockchain following the ERC20 standard, it ensures compatibility with wallets, decentralized exchanges (DEXs), and other Ethereum-based platforms.",
           }),
           k.jsx("p", {
             className: "leading-relaxed",
@@ -34870,7 +34870,7 @@ const ky = z5({
     });
   },
   jG =
-    "Welcome to AgentZero, private AI-driven wealth management platform designed for privacy-conscious investors. Take control of your financial future with customized AI agents that work for you.",
+    "Welcome to AlphaForge, private AI-driven wealth management platform designed for privacy-conscious investors. Take control of your financial future with customized AI agents that work for you.",
   RG = () => {
     const [t, e] = K.useState([]),
       [r, n] = K.useState(!1),
@@ -35126,7 +35126,7 @@ const ky = z5({
     },
     {
       symbol: "AGZRO",
-      name: "AgentZero",
+      name: "AlphaForge",
       balance: "1000",
       value: "$1,000",
       change: "+3.2%",
@@ -60671,7 +60671,7 @@ const Tye = [
         className: "bg-[#A3FF23]/10 p-6 rounded-full",
         children: k.jsx("img", {
           src: "/agent.png",
-          alt: "AgentZero Logo",
+          alt: "AlphaForge Logo",
           className: "w-12 h-12 object-contain",
         }),
       }),
@@ -60712,7 +60712,7 @@ const Tye = [
                 children: [Math.round(e), "%"],
               }),
               k.jsx(Bye, {
-                text: "Let Agents handle your portfolio",
+                text: "Let AlphaForge handle your portfolio",
                 speed: 50,
               }),
             ],
