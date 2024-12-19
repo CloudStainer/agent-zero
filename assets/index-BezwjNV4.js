@@ -9815,7 +9815,7 @@ const Dj = () => {
                 className: "flex flex-col items-center gap-4",
                 children: [
                   k.jsxs("a", {
-                    href: "https://wp.agent-zero.xyz/",
+                    href: "https://agent-zero-doc1.vercel.app/",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
